@@ -27,9 +27,6 @@ This project was created to practice:
 - Spacing and positioning
 - Structuring reusable components
 
-## Live Link
-
-
 ## Author
 
 Vaishnavi Sawant
